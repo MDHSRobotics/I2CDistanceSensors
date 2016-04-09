@@ -1,0 +1,676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Even",
+				"EventService"
+			],
+			[
+				"events",
+				"events"
+			],
+			[
+				"event",
+				"EventService"
+			],
+			[
+				"is",
+				"isConnected"
+			],
+			[
+				"iS",
+				"isConnected"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"draw",
+				"drawfield"
+			],
+			[
+				"he",
+				"headingStyle"
+			],
+			[
+				"h",
+				"headingStyle"
+			],
+			[
+				"get",
+				"getHeadingStyle"
+			],
+			[
+				"newP",
+				"newPosition"
+			],
+			[
+				"de",
+				"deckSummaries"
+			],
+			[
+				"reslt",
+				"results"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"cal",
+				"calculateLastScore"
+			],
+			[
+				"resu",
+				"resultsExists"
+			],
+			[
+				"res",
+				"resultsExists"
+			],
+			[
+				"miss",
+				"missedWindowSize"
+			],
+			[
+				"que",
+				"questionId"
+			],
+			[
+				"ques",
+				"questionHistory"
+			],
+			[
+				"ad",
+				"addRunResults"
+			],
+			[
+				"current",
+				"currentRun"
+			],
+			[
+				"deck",
+				"deckSummaryIndex"
+			],
+			[
+				"dec",
+				"deckSummaries"
+			],
+			[
+				"currentRun",
+				"currentRunId"
+			],
+			[
+				"flash",
+				"flashcardsService"
+			],
+			[
+				"d",
+				"deckSummaries"
+			],
+			[
+				"decS",
+				"deckSummaries"
+			],
+			[
+				"fla",
+				"flashcardsService"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"St",
+				"statusValue"
+			],
+			[
+				"data",
+				"databaseName"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"criter",
+				"criteriaMatch"
+			],
+			[
+				"add",
+				"addQuestion"
+			],
+			[
+				"bg",
+				"bgcolor-CGSteel_20"
+			],
+			[
+				"ngc",
+				"ng-class"
+			],
+			[
+				"ta",
+				"tabHovering"
+			],
+			[
+				"tab",
+				"tabHovering"
+			],
+			[
+				"Le",
+				"Lev8TabHovering"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"newQu",
+				"newQuestion"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"men",
+				"menuSelection"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ele",
+				"elementStyle"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"miles",
+				"milestone2"
+			],
+			[
+				"sh",
+				"showAllMilestones"
+			],
+			[
+				"show",
+				"showAll"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"sho",
+				"showControlLocation"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"meta",
+				"metaData"
+			],
+			[
+				"left",
+				"leftOffset"
+			],
+			[
+				"m",
+				"myStyle"
+			],
+			[
+				"off",
+				"offsetLeft"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"nwe",
+				"newvalue"
+			],
+			[
+				"new",
+				"newvalue"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"menu",
+				"menuKeys"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tra",
+				"transforms"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-table"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"mi",
+				"milestone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nGitSavvy\n--------\n\n  # Welcome to GitSavvy\n  \n  GitSavvy provides integration between Sublime Text 3 and Git.\n  \n  If you're a new user and you find yourself asking, _\"Can GitSavvy do X?\"_, there are two places to look.  First, open your command palette and type `GitSavvy: help`.  This will take you to the offline wiki-style documentation.\n  \n  You can also check for configurability options by opening `Preferences > Package Settings > GitSavvy > Settings - Default` in the ST3 menu.  Any optional or configurable behavior will be documented here, along with the default values.\n  \n  If you need help along the way, there's usually someone around in our Gitter channel:\n  https://gitter.im/divmain/GitSavvy\n  \n  Finally, if at any time you encounter a bug, or if you wish that GitSavvy included some missing functionality, please open an issue:\n  https://github.com/divmain/GitSavvy/issues\n",
+			"settings":
+			{
+				"buffer_size": 944,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"help",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/martin/Desktop/robotics/repositories/I2CDistanceSensors"
+	],
+	"file_history":
+	[
+		"/Users/martin/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Users/martin/Library/Application Support/Sublime Text 3/Packages/User/GitSavvy.sublime-settings",
+		"/Users/martin/Desktop/robotics/workspace/ArduinoDistanceSensor/DualSensorNotes.txt",
+		"/Users/martin/Documents/creds2.txt",
+		"/Users/martin/Documents/creds.txt",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app/robot/ConnectionIndicatorDirective.js",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app/events/EventService.js",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app/robot/view/ConnectionIndicator.html",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app/events/EventLogDirective.js",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app/events/NotificationDirective.js",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app/app.js",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/index.html",
+		"/Users/martin/Desktop/robotics/vision_workspace/DNSSDAnnounce/scripts/app.js",
+		"/Users/martin/Documents/workspace/MDConsole3/scripts/app/robot/view/ConfigItem.html",
+		"/Users/martin/Documents/workspace/MDConsole3/scripts/app/robot/ConfigurationItemDirective.js",
+		"/Users/martin/Documents/workspace/MDConsole3/scripts/app/robot/view/RobotConfig.html",
+		"/Users/martin/Documents/workspace/MDConsole3/scripts/app/events/NotificationDirective.js",
+		"/Users/martin/Documents/workspace/MDConsole3/scripts/app/robot/RobotConfigurationDirective.js",
+		"/Users/martin/Documents/workspace/MDConsole3/index.html",
+		"/Users/martin/Documents/workspace/MDConsole3/css/MDConsole.css",
+		"/Users/martin/Documents/workspace/MDConsole3/MDConsole.sublime-project",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/3246039.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/3244888.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/1457493971576.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/1457805046229.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/1457812743956.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/1456089164507.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/webroot/index.html",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/1457803239529.dat",
+		"/Users/martin/Documents/workspace/RobotTraceAnalyzer/data/Long Beach Recordings/3244845.dat",
+		"/Users/martin/Documents/startmongo.sh",
+		"/Users/martin/Documents/workspace/hellopigpu/sftp-config.json",
+		"/Users/martin/Documents/workspace/userland/sftp-config.json",
+		"/private/var/folders/sk/8fzwth4d3kb_smxzw8spp4yr0000gn/T/com.apple.mail/com.apple.mail/compose/attach/MemoryLane.java",
+		"/Users/martin/Documents/rate.csv",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/fieldDirective.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/index.html",
+		"/Users/martin/Documents/workspace/WebSocketClient/css/field.css",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/fieldDrawingDirective.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/eventLogDirective.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/eventService.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/robotDirective.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/robotService.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/scripts/app/ConsoleApp.js",
+		"/Users/martin/Documents/workspace/WebSocketClient/index.js",
+		"/Users/martin/Downloads/x2015all/A1/DiverseArray.java",
+		"/Users/martin/Documents/index.html",
+		"/Volumes/NO NAME/Flashcards/views/layout.html",
+		"/Users/martin/Documents/workspace/Flashcards/public/js/app/flashcardsApp.js",
+		"/Users/martin/Documents/workspace/Flashcards/public/css/default.css",
+		"/Users/martin/Documents/workspace/Flashcards/public/css/CGColors.css",
+		"/Users/martin/Documents/workspace/Flashcards/public/data/questions.json",
+		"/Users/martin/Documents/workspace/Flashcards/public/js/app/questions/flashcardsService.js",
+		"/Users/martin/Documents/workspace/Flashcards/public/js/app/questions/cardViewerDirective.js",
+		"/Users/martin/Documents/workspace/Flashcards/public/js/app/questions/deckDashboardDirective.js",
+		"/Users/martin/Documents/workspace/Flashcards/public/js/app/questions/textBulletListDirective.js",
+		"/Volumes/NO NAME/Flashcards/public/js/app/questions/completionGaugeDirective.js",
+		"/Users/martin/Documents/workspace/theraServices/getOrgs/event.json",
+		"/Users/martin/Documents/workspace/theraServices/getOrgs/package.json",
+		"/Users/martin/Documents/workspace/theraServices/getOrgs/index.js",
+		"/Users/martin/Documents/workspace/theraServices/getOrgs/.env",
+		"/Users/martin/Documents/workspace/Thera/package.json",
+		"/Users/martin/Documents/workspace/Thera/modules/questions.js",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/questionMenuDirective.js",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/questionsService.js",
+		"/Users/martin/Documents/workspace/Thera/views/layout.html",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/DevDashboardDirective.js",
+		"/Users/martin/Documents/workspace/Thera/controllers/questions.js",
+		"/Users/martin/Documents/workspace/Thera/controllers/default.js",
+		"/Users/martin/Documents/workspace/Thera/public/data/questions.json",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/questionTileDirective.js",
+		"/Users/martin/Documents/workspace/Thera/public/styles/startDynamoDB",
+		"/Users/martin/Documents/workspace/Thera/public/styles/Thera.css",
+		"/Users/martin/Documents/workspace/Thera/startDynamoDB",
+		"/Users/martin/Documents/workspace/Thera/npm-debug.log",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/questionsPanelDirective.js",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/todosPanelDirective.js",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/Lev8DevDashboardApp.js",
+		"/Users/martin/Documents/workspace/Thera/public/scripts/devDashoard/DevDashboardBootstrap.js",
+		"/Users/martin/Documents/workspace/Thera/public/styles/CGColors.css",
+		"/Users/martin/Documents/workspace/Thera/testmongo.js",
+		"/Users/martin/Documents/workspace/Thera/promises example.js",
+		"/Users/martin/Documents/workspace/Thera/docs/amazon IAM info.txt",
+		"/Users/martin/Documents/workspace/Thera/mongostart.ksh",
+		"/Users/martin/Documents/workspace/Thera/mongostop.ksh",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/FY17BTRAppBootstrap.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/styles/FY17BTRApp.css",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/menuDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/InstructionPanelDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/data/timeline.txt",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/timelineDataService.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/milestoneDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/styles/CGColors.css",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/views/layout.html",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/data/menuConfig.txt",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlDrawInterestIndicator.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/TopicsDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/InterestIndicatorDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlDrawIcon.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlIconDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/menuDataService.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/FY17BTRAppLoader.html",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/btrVideoDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/timelineDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlDrawProcess.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlProcessDirective.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/TL.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlDescriptor.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlIconDictionary.js",
+		"/C/Users/maps/Desktop/videoassets/video.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlDrawMilestones.js",
+		"/C/Users/maps/Desktop/samples/strategy.jpg",
+		"/C/Users/maps/Desktop/samples/xsessions_cco.jpg",
+		"/C/Users/maps/Desktop/samples/bilr_xsessions_2.jpg",
+		"/C/Users/maps/Desktop/samples/cjjr_xsessions_2.jpg",
+		"/C/Users/maps/Desktop/samples/maps_xsessions_1.jpg",
+		"/C/Users/maps/Desktop/samples/scj_xsessions_1.jpg",
+		"/C/Users/maps/Desktop/samples/xsessions_ktal.jpg",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/scripts/tlDrawTimelineBar.js",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/views/index.html",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/BTRApp/public/FY17BTRMenu.html",
+		"/C/Users/maps/AppData/Local/Temp/wz281a/PoloApp/PoloApp/WebContent/scripts/polo.js",
+		"/C/Tools/total.js/examples/readme.md",
+		"/C/Users/maps/Downloads/Unit4.java",
+		"//capgroup.com/MYDOCS/maps/My Documents/workspace/Unit4/src/Unit4.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toast",
+			"Notification\"",
+			"game",
+			"atta",
+			"r::",
+			"missed",
+			"misses",
+			"\\",
+			"finishRun",
+			"c::",
+			"finishRun",
+			"currentRunID",
+			"question",
+			"()\">'+",
+			"topicsti",
+			"topcisti",
+			"description",
+			"title",
+			"pointer",
+			"irective.js\"></script>\n	<script type=\"text/javascript\" src=\"/scripts/milestoneDirec",
+			"toJS",
+			"toJson",
+			"icon",
+			"height"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								726
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"git_savvy.file_path": null,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 301.0
+	},
+	"pinned_build_system": "",
+	"project": "I2CDistanceSensors.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
