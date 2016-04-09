@@ -110,6 +110,7 @@ void requestEvent(){
   newDataAvailable = false;
   Wire.write(registerMap+receivedCommands[0], REGISTER_SIZE);  //Set the buffer up to send all 17 bytes of data
 }
+/* adding a comment */
 
 void receiveEvent(int bytesReceived){
   for (uint8_t a = 0; a < bytesReceived; a++){
